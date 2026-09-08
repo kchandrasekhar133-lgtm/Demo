@@ -10,3 +10,4 @@ This is my Git practice repository.
 ## Purpose
 
 This repository is created for practicing Git and GitHub commands.
+Today tuesday
